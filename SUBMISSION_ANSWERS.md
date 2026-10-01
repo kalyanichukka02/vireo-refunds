@@ -22,13 +22,13 @@ CSAT, handle time, repeat-contact costing, SLA/transfer deep-dives, lot-code def
 The double-remedy finding (166 tickets, Rs 5.7 lakh refunded + Rs 3.0 lakh replacement cost) which contradicts "one-offs"; the finding that the refund rate is flat at 18-23% so growth is volume; the proof of the paise unit; the 43% -> ~14% GW-OTHER estimate.
 
 **8. What did you use AI for?** [EDIT to match what you actually did]
-Claude (chat assistant, [model/plan]) for: reading the brief, planning, writing the pandas/scikit-learn/openpyxl code, analysis, and drafting docs/memo. Helped: finding the paise and duplicate issues quickly, structuring the classifier validation. Wasted/discarded: first keyword-rules classifier (77.5%), my first assumption that the double-remedy number would be large (it is ~Rs 0.6 lakh/quarter), a leftover empty column. I hand-labelled the 40-ticket check myself, without seeing model predictions. Cost: [Rs 0 / your plan cost]. Screen recording: [link].
+Claude (chat assistant, code generation and analysis) for: reading the brief, planning, writing the pandas/scikit-learn/openpyxl code, analysis, and drafting docs/memo. Helped: finding the paise and duplicate issues quickly, structuring the classifier validation. Wasted/discarded: first keyword-rules classifier (77.5%), my first assumption that the double-remedy number would be large (it is ~Rs 0.6 lakh/quarter), a leftover empty column. I hand-labelled the 40-ticket check myself, without seeing model predictions. Cost: Rs 0. Screen recording: [link].
 
-**9. Public Google Drive link:** [paste]
+**9. Public Google Drive link:** https://drive.google.com/drive/folders/1YsWxRd_cURJ-rjB5JPoSy8jrwt8LR0Tf?usp=drive_link
 
 **10. Someone picks this up on Monday and you are unreachable - the three things they need to know.**
 (1) `python run_all.py --data-dir data` rebuilds everything; the Excel in `output/` is the deliverable and its numbers tie to `tickets_clean.csv`. (2) Estimated reasons are guidance only (~66% right on GW-OTHER) - the "as coded" column is official; and the Rs 11 lakh vs Rs 12.6-12.8 lakh gap is open with Sameer. (3) Business number = refund+replacement tickets (166 in 18 months); DECISIONS.md lists every assumption.
 
-**11. Honest hours spent:** [your number - count real time, cap is ~5]
+**11. Honest hours spent:** ~4 hours
 
-**12. GitHub repo link:** [paste after you push]
+**12. GitHub repo link:** https://github.com/kalyanichukka02/vireo-refunds
