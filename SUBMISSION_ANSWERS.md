@@ -1,4 +1,4 @@
-# Submission form - draft answers (edit anything in [brackets] before submitting)
+# Submission form -  answers
 
 **1. What did you build, and what business outcome does it move? State the number and the money.**
 A free, one-command tool that cleans the helpdesk export (removes 638 duplicate tickets, converts legacy paise to rupees), re-estimates the hidden reason behind "GW-OTHER" refunds from ticket text, and produces a monthly Excel of refunds by reason code and by agent that reconciles (Rs 67.1 lakh over 18 months). Business goal: cut refund-plus-replacement tickets (policy s5 violation) from 6.8% of refund tickets (9.5% at the Q1-2026 peak) to under 1%, worth about Rs 0.55-0.73 lakh a quarter (~Rs 2.5 lakh a year) in avoided replacement cost (unit cost + Rs 340). It also explains Arjun's "over a crore": a 100x paise error plus duplicates.
@@ -21,8 +21,9 @@ CSAT, handle time, repeat-contact costing, SLA/transfer deep-dives, lot-code def
 **7. Anything you built or found that nobody asked for?**
 The double-remedy finding (166 tickets, Rs 5.7 lakh refunded + Rs 3.0 lakh replacement cost) which contradicts "one-offs"; the finding that the refund rate is flat at 18-23% so growth is volume; the proof of the paise unit; the 43% -> ~14% GW-OTHER estimate.
 
-**8. What did you use AI for?** [EDIT to match what you actually did]
-Claude (chat assistant, code generation and analysis) for: reading the brief, planning, writing the pandas/scikit-learn/openpyxl code, analysis, and drafting docs/memo. Helped: finding the paise and duplicate issues quickly, structuring the classifier validation. Wasted/discarded: first keyword-rules classifier (77.5%), my first assumption that the double-remedy number would be large (it is ~Rs 0.6 lakh/quarter), a leftover empty column. I hand-labelled the 40-ticket check myself, without seeing model predictions. Cost: Rs 0. Screen recording: [link].
+**8. What did you use AI for?** 
+Claude (chat assistant, code generation and analysis) for: reading the brief, planning, writing the pandas/scikit-learn/openpyxl code, analysis, and drafting docs/memo. Helped: finding the paise and duplicate issues quickly, structuring the classifier validation. Wasted/discarded: first keyword-rules classifier (77.5%), my first assumption that the double-remedy number would be large (it is ~Rs 0.6 lakh/quarter), a leftover empty column. I hand-labelled the 40-ticket check myself, without seeing model predictions. Cost: Rs 0. Screen recording: https://youtu.be/VSKfZucNdsg
+
 
 **9. Public Google Drive link:** https://drive.google.com/drive/folders/1YsWxRd_cURJ-rjB5JPoSy8jrwt8LR0Tf?usp=drive_link
 
