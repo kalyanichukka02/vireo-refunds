@@ -1,0 +1,8 @@
+rows read: 12238  (unique ticket_id: 11600)
+paise check: 125 duplicated refund tickets, legacy/helpdesk ratio min=100.0 max=100.0
+legacy refund rows converted paise->rupees: 775
+duplicate rows dropped: 638  -> 11600 unique tickets
+agent join: 11600 matched on roster date, 0 fell back to nearest roster row, 0 unmatched
+order join: 7701 via order_id, 3899 via customer+sku fallback, 0 unmatched
+refund tickets: 2340  total Rs 6,709,932
+refund + replacement on same ticket: 166

@@ -1,0 +1,138 @@
+ticket_id,agent_notes,customer_message,YOUR_LABEL,model_code,model_conf,recoded,final
+TK-242877,"1. failed order after payment
+2. conf with payment gateway
+3. refund of rs 1169 initiated to source","sir ji
+my bank says rs 1799 went to you but yor site says i have no orders
+bahut pareshan hu
+teh neckband
+??",LOST-TRANSIT,DUP-PAYMENT,0.9247832792471202,True,DUP-PAYMENT
+TK-253989,"cx: rapid batery drain | advised disabling anc/aod to test -> advised settings change, cx satisfied.
+Reversed the payment and dispatched a new one under RMA. ~Krishna","To the Vireo Customer Care Team,
+
+I am writing with reference to my order of Pulse 2 (VR893047) placed on March 06. Goes from full to empty during one commute. I have turned off always-on display. I request you to kindly arrange a replacement.
+
+Regards,
+Pranav Dutta
+Bhopal",RETURN-QC-OK,WTY-BUYBACK,0.4270575695832518,False,GW-OTHER
+TK-242358,resolved on call ~Manish,"Product: Nexa Fit
+Order: VR902719
+Purchased: 20/05
+Issue: got a different colour than orered
+Tried: checked teh invoice
+Expected: resoltion",GW-OTHER,RETURN-QC-OK,0.4700494423339101,False,GW-OTHER
+TK-247128,customer reached out - unit rcvd damaged. chk w/ crr for damage claim. full rfnd processed (1105).,"dear sir/madam,
+
+i am writing with reference to my order of nexa 2 placed on 10/11. received damaged product. i have refused nothing as i didn't notice till later. i request you to look into this matter at the earliest.
+
+regards,
+ishaan sethi
+kolkata",GW-OTHER,DOA-REPL,0.8265132864222631,True,DOA-REPL
+TK-240381,"cx reached out - cancellation request. Cancelled before dispatch. Already shipped, advised RTO/return. Cx satisfied on chat.","team,
+pls cancel, ordered by mistake
+urgent",CANCEL,CANCEL,0.9291359692109294,True,CANCEL
+TK-253466,"rfnd approved, rs 712, 5-7 working days","hi
+payment went through but i got no order id
+help",DUP-PAYMENT,DUP-PAYMENT,0.9130081003001352,True,DUP-PAYMENT
+TK-249730,"reset done, paired ok. issue: device not discoverable. asked cx to reset the device. issued refund + replacement both, tl aware. [closed]",Got Pulse 2 fom vireo.in a month ago. The pairing light blinks but nothing ever shows up on my Vivo. I forgot the device & tried again. Nothing changed. Please help.,DOA-REPL,DOA-REPL,0.4922666565429217,False,GW-OTHER
+TK-240354,cx: cancel ord | chk shipment satus -> refunded rs 4248,bought the pulse buds around 22-01-2025 from amazon. want to cancel my order. please help. regards aarav khanna,DOA-REPL,CANCEL,0.7216519883397486,True,CANCEL
+TK-245141,"cust contacted re unit rcvd damaged. photos rcvd, damage conf. rplc raised, rma shared w/ cx. full rfnd issued & rplc dispatched as goodwill.","Hello, I bought Strata 3 on September 17. Box was cruhsed and the Strata 3 is cracked. I refused nothing as I didn't notice till later. What do I do now? Please revert Mohammed Mittal",WTY-BUYBACK,DOA-REPL,0.8853745399342925,True,DOA-REPL
+TK-243490,Contact re left bud not charging. Walked through factory reset. rfnd of Rs 2799 initiated to source. Closing. ~Amit,"Dear team, Ordered Pulse 2 around Diwali. The left earbud is not charging at all. Kindly look into it. Regards Lobsang George",DOA-REPL,DOA-REPL,0.3637848466784857,False,GW-OTHER
+TK-242590,re: duplicate payment | confirmed utrs -> full refund processed (1999) ~Krishna,"hii
+i was charged twice for one order
+??",DUP-PAYMENT,DUP-PAYMENT,0.9427208135229052,True,DUP-PAYMENT
+TK-254410,full rfnd processed (2499). issue: rfnd not credited. chk rfnd status on pg. ~Manish,"product: the mini speaker
+order: vr899218
+purchased: 30-05-2026
+issue: the return was accepted but the amount is nowhere in my account
+tried: emailed twice
+expected: fix",RETURN-QC-OK,RETURN-QC-OK,0.9464754215379548,True,RETURN-QC-OK
+TK-248418,"full rfnd processed (1104). issue: pickup not done. chk pickup awb. | replacement was offered earlier by chat team, cx opted for refund. ~Manish","hi team,
+ordered replacement case a month ago. i have been sitting at home for 3 days waiting for your courier.
+i rescheduled pickup twice. nothing changed.
+i want a replacement.",GW-OTHER,RETURN-QC-OK,0.9151374908795772,True,RETURN-QC-OK
+TK-247836,"Refund of Rs 5999 initiated to source. Issue: payment debited, no ord. Confirmed with payment gateway. [closed]","Product: the Orbit smrt speaker
+Order: VR904002
+Purchased: 04 Dec
+Issue: payment went through but I got no order id
+Tried: chekced bank statement
+Expected: resolution",DUP-PAYMENT,DUP-PAYMENT,0.9185407837300864,True,DUP-PAYMENT
+TK-244456,"Contact re unit received damaged. Photos received, damage confirmed. Reverse pickup arranged. //AIS","Product: pulse 2 buds
+Order: VR899312
+Purchased: 21 Aug
+Issue: recceived damaged product
+Tried: refused nothing as I didn't notice till later
+Expected: resolution",GW-OTHER,DOA-REPL,0.9097320166611564,True,DOA-REPL
+TK-251865,"1. Strap damage
+2. Checked wty eligibility
+3. Refunded Rs 1000",Pathetic expperience honestly. Bought Nexa wath around 25-04-2025 from Flipkart. the band snapped while I was putting it on this morning. I already tried to fix pin. This is the last time I buy from you.,DOA-REPL,DOA-REPL,0.361900189145182,False,GW-OTHER
+TK-246927,"1. refund pending
+2. checked reverse pickup qc status
+3. refund conf credited.
+offered replacement, cx preferred refund. refund processed.","Hi Vireo support, I bought Nexa 2 on 26/10. Refund was promised 20 days ago and nothing. I checked bank. Nothing changed. Please advise. Awaiting response Pranav Pereira",RETURN-QC-OK,RETURN-QC-OK,0.953334546311826,True,RETURN-QC-OK
+TK-251237,"refund approved, rs 104, 5-7 working days","ordered the wrong colour, don't ship it. i want my money back",CANCEL,CANCEL,0.5604687405127052,False,GW-OTHER
+TK-244622,"Customer states connection dropping. Checked interference sources. rplc raised. | Cx got the amount back, also sending a new set to keep him happy. //SUK",bluetooth keeps cutting out,GW-OTHER,DOA-REPL,0.6100302346820093,True,DOA-REPL
+TK-248705,"Contact re incorrect product shipped. Raised w/ warehouse. Replacement raised, RMA shared w/ cx. | Money back to source & a fresh pair shipped. //AIS","hi
+the box says my pulse but what's inside is not what i paid for
+my pulse",WTY-BUYBACK,WTY-BUYBACK,0.3765116996140037,False,GW-OTHER
+TK-250666,"1. Speaker not powering on
+2. Asked cx to try different adaptor
+3. Refund of Rs 2499 initiated to source. Both rfnd and rplc given as cx threatened social media.","product: the mini speaker
+purchased: 15/09
+issue: it is a v expnsive brick now, no lights, no sound
+tried: held power button 30 sec
+expected: replacement",WTY-BUYBACK,DOA-REPL,0.3636522214104176,False,GW-OTHER
+TK-245424,"1. amount deducted without order
+2. checked pg dashboard for txn
+3. rfnd approved, rs 3324, 5-7 working days ~Sneha",[IVR transcript] I have been a loyal customer and this is how you treat me.  This is regarding pulse 2 buds. MY BANK SAYS RS 4999 WENT TO YOU BUT YOUR SITE SAYS I HAVE NO ORDERS. I already checked bank statement. This is the last time I buy from you.,DUP-PAYMENT,DUP-PAYMENT,0.9232490100468128,True,DUP-PAYMENT
+TK-249912,refund of rs 3149 initiated to source. issue: refund not credited. checked refund status on pg. ~Manish,pathetic experience honestly. this is regarding my pulse 2. refund not received yet. i already checked bank. fix this or i am posting on twitter.,RETURN-QC-OK,RETURN-QC-OK,0.9383255354420578,True,RETURN-QC-OK
+TK-250345,"cx reached out - dlvry delayed. raised ticket w/ courier partner. refund approved, rs 1899, 5-7 working days.","hi vireo support, bought nexa fit around february 12 from amazon. tracking has said out for delivery for a week now. please call me on my registered number. regards",LOST-TRANSIT,LOST-TRANSIT,0.4493543360669564,False,GW-OTHER
+TK-251857,full rfnd processed (2974). issue: wrong variant received. verified ord vs delivered item photos. ~Manish,"hi vireo support, i bought pulse 2 on march 22. received the wrong item. i rechecked my order. what do i do now? thanks & regards nikhil",DOA-REPL,RETURN-QC-OK,0.7507808551996664,True,RETURN-QC-OK
+TK-242957,issue: warranty claim status | chk rma status -> refund of rs 1699 initiated to source,"Got my Nexa Fit band from Amazon 10 days ago. Warranty claim pending for 18 days. I called service centre. I want a replacement. Thanks in advance, Thomas Mishra",WTY-BUYBACK,DOA-REPL,0.3725322432817241,False,GW-OTHER
+TK-240242,"rplc approved, reverse pkp arranged. amount returned to card; fresh unit shipped from blr warehouse.",Not what I expected from Vireo. Bought the Pulse buds around 17/12 from Flipkart. keeps losing my phone if I walk to the other room. I already kept phone in hand. Fix this or I am posting on twitter.,WTY-BUYBACK,WTY-BUYBACK,0.5292353956154809,False,GW-OTHER
+TK-251720,"1. amount deducted without order
+2. asked for utr
+3. rfnd of rs 3324 initiated to source","Product: pulse 2 buds
+Order: VR902387
+Purchased: March 25
+Issue: monye debited but order not showing
+Tried: tried logging out and in
+Expected: resolution",DUP-PAYMENT,DUP-PAYMENT,0.886602604092186,True,DUP-PAYMENT
+TK-242101,"1. discount not applied
+2. checked coupon validity
+3. advised coupon terms, resolved ~Sneha","hii
+your ad said 20% off and the cart says full price
+orbit mini vr893795",PRICE-ADJ,PRICE-ADJ,0.941857503832248,True,PRICE-ADJ
+TK-247763,"1. Refund not credited
+2. Checked refund status on PG
+3. Refund confirmed credited","team,
+you picked up the item 13 days ago and my money hasn't come back
+urgent",RETURN-QC-OK,RETURN-QC-OK,0.9666009278878488,True,RETURN-QC-OK
+TK-254270,refunded rs 1529. issue: pickup missed. checked pickup awb. ~Manish,"i have been a loyal customer & this is how you treat me. airlite purchased in may, order vr896029. nobody came for the pickup. i already called courier. fix this or i am posting on twitter.",WTY-BUYBACK,RETURN-QC-OK,0.8894337722077879,True,RETURN-QC-OK
+TK-248426,"refund approved, rs 160, 5-7 working days. issue: order cancellation. cancelled before dispatch. -VB","ordered teh worng colour, don't ship it",CANCEL,CANCEL,0.9736645270153108,True,CANCEL
+TK-246262,refund of rs 2799 initiated to source. issue: cancellation request. checked shipment status. -RM,"Dear Sir/Madam,
+
+I am wriiting with reference to my oder of the Pulse 2 earbuds (VR899396) placed on October 13.  Change of mind, please stop the shipment. I have tried cancel button, greyed out. I requeest you to process a refund to my original paymnet method.
+
+Regards,
+Ramesh Bose",CANCEL,CANCEL,0.91697968808455,True,CANCEL
+TK-243486,issue: duplicate payment | confirmed utrs -> refund processed | xfer email frontline ~Krishna,"Product: Strata 2
+Order: VR906346
+Purchased: 10-07-2025
+Issue: double payment deducted
+Tried: checked with bank
+Expected: callback",DUP-PAYMENT,DUP-PAYMENT,0.8842433782962202,True,DUP-PAYMENT
+TK-241775,Reported: rfnd pending. chk rfnd status on PG. rfnd reprocessed. Case closed with cx consent.,"hi there, this is regarding orbit mini. refund not received yet. i emailed twice. nothing changed. what do i do now? thanks & regards vivaan mehta",RETURN-QC-OK,RETURN-QC-OK,0.931216938804459,True,RETURN-QC-OK
+TK-253358,cust contacted re cancel ord. chk shipment status. full rfnd processed (892).,cancel order VR896349,CANCEL,CANCEL,0.9265611979861854,True,CANCEL
+TK-249713,"Reverse pickup arranged. Issue: unit received damaged. Photos received, damage confirmed. Full refund issued and replacement dispatched as goodwill.","hii
+product arrived damaged
+pls reply",DOA-REPL,DOA-REPL,0.943748401811121,True,DOA-REPL
+TK-247145,"1. rfnd pending
+2. checked rfnd status on pg
+3. arn shared with cx.
+full rfnd issued and replacement dispatched as goodwill. ~Sneha","Hello Vireo, Ordered Strata 3 a month ago.  Refund was promised 15 days ago and nothing. I emailed twice. Honestly regretting this purchase. Please call me on my registered number. Thanks in advance, Hasrh",RETURN-QC-OK,RETURN-QC-OK,0.7312563707575224,True,RETURN-QC-OK
+TK-251809,full refund processed (552). issue: refund delay. checked refund status on pg. ~Manish,"Hello Vireo,
+Got Nexa 2 from vireo.in 10 days ago. Refund not received yet.
+I checked bank.
+I want a replacement.
+Awaiting response, Faisal",WTY-BUYBACK,RETURN-QC-OK,0.9228950450710666,True,RETURN-QC-OK
+TK-252214,"Reported: discount not applied. chk coupon validity. rfnd approved, Rs 399, 5-7 working days. Will monitor.",This is very disappointing. Got the cable from vireo.in last month. the festive offer vanished when I clicked pay. I already tried on app and website. Refund. Now.,PRICE-ADJ,PRICE-ADJ,0.8404676899069344,True,PRICE-ADJ

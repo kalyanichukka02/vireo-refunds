@@ -1,0 +1,24 @@
+Baseline keyword rules (v1-baseline): accuracy 77.5% (n=1349)
+Text model, 5-fold CV: accuracy 91.0% on all; at confidence>=0.6: covers 83%, accuracy 98.5%
+  => error rate ~1.5% where it acts; ~17% left as GW-OTHER (not confident)
+
+Confusion matrix (rows = agent code, cols = model):
+model         CANCEL  DOA-REPL  DUP-PAYMENT  LOST-TRANSIT  PRICE-ADJ  RETURN-QC-OK  WTY-BUYBACK
+agent code                                                                                     
+CANCEL           222         0            0             0          0             0            0
+DOA-REPL           0       103            1             4          0            10           29
+DUP-PAYMENT        0         0          321             0          0             0            0
+LOST-TRANSIT       0         1            0            38          0             4            4
+PRICE-ADJ          0         0            0             0         70             1            0
+RETURN-QC-OK       0         0            0             0          0           452            0
+WTY-BUYBACK        0        50            0             5          0            12           22
+
+Per-code precision/recall:
+              precision  recall
+CANCEL             1.00    1.00
+DOA-REPL           0.67    0.70
+DUP-PAYMENT        1.00    1.00
+LOST-TRANSIT       0.81    0.81
+PRICE-ADJ          1.00    0.99
+RETURN-QC-OK       0.94    1.00
+WTY-BUYBACK        0.40    0.25
